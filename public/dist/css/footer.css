@@ -1,0 +1,17 @@
+footer{
+	padding: 2em 0 5em 0;
+}
+
+footer .button-contact{
+	color: #444;
+	background: #fff;
+	border:2px solid #444;
+	border-radius: 5px;
+	padding: .5em .8em;
+}
+footer a:hover.button-contact{
+	color: #fff;
+	background: #444;
+	border-radius: 5px;
+	border-width: 2px;
+}
